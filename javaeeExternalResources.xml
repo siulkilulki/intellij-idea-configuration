@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://java.sun.com/xml/ns/javaee/javaee_5.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/4b11d5d8_javaee_5.xsd" />
+    <resource url="http://www.jboss.org/j2ee/schema/jboss-common_5_1.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/b91f97f6_jboss-common_5_1.xsd" />
+    <resource url="http://www.jboss.org/j2ee/schema/jboss-web_5_1.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/26b82cf_jboss-web_5_1.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/9b192256_xml.xsd" />
+  </component>
+</application>
