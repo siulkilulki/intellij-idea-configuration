@@ -4,6 +4,7 @@
       <mapping pattern="testAccounts" type="PLAIN_TEXT" />
       <mapping pattern="testReadingAccounts" type="PLAIN_TEXT" />
       <mapping pattern="accounts" type="PLAIN_TEXT" />
+      <mapping pattern="ChildResource" type="YAML" />
     </extensionMap>
   </component>
 </application>
